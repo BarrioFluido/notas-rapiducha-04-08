@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Notas y links útiles sobre inteligenica artificial aplicada al arte
 
 You can use the [editor on GitHub](https://github.com/BarrioFluido/notas-rapiducha-04-08/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
